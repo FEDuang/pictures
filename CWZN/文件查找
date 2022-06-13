@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T12:48:48.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" version="20.0.1" etag="ZuB2o0F1Y-55zi_Kul-U" type="github"><diagram id="j83GJCoXKcUo6G647e10">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-13T12:57:39.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="3dzgKP9Qc0f35nxh6_Xh" version="20.0.1" type="github">
+  <diagram id="j83GJCoXKcUo6G647e10" name="第 1 页">
+    <mxGraphModel dx="460" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CEDaW4Ib1GWyqOrQjqgT-18" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;size=80;" vertex="1" parent="1">
+          <mxGeometry x="93.75" y="50" width="50" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="CEDaW4Ib1GWyqOrQjqgT-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="CEDaW4Ib1GWyqOrQjqgT-18">
+          <mxGeometry x="20" y="120" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CEDaW4Ib1GWyqOrQjqgT-21" value="" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="50" width="50" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="CEDaW4Ib1GWyqOrQjqgT-19" value="：User" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="20" width="57.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CEDaW4Ib1GWyqOrQjqgT-23" value="：showFilePage" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="195" y="17" width="80" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
